@@ -1,14 +1,14 @@
 # Site settings
-title_left    : "Simone"
-title_right   : " Esposito" # default: ""
+title_left    : "Pro"
+title_right   : " DevOpsGuy" # default: ""
 description   : " Home"
-keywords      : "Simone Esposito, DarkJoker360"
-url           : https://DarkJoker360.github.io # site url
+keywords      : "ProDevOpsGuy"
+url           : https://ProDevOpsGuy.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : "DarkJoker360"
+telegram_username  : "ProDevOpsGuy"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Simone Esposito"
+  name     : "ProDevOpsGuy Team"
 
 plugins:
   - jekyll-sitemap

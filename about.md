@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About me
+title: About us
 permalink: /about/
 ---
 
-I am a 21 years old Italian student and developer, interested in Software and Hardware developments and hacking. I am also known for developing and porting Android custom roms on smartphones. I am crDroidAndroid core developer, Pixel Experience and LineageOS maintainer and contributor.
+• We post Daily Trending DevOps Blogs
+• All New DevOps Videos & PDFs
+• All Cloud Tips & Techniques
+• All Cloud Related Code & Scripts uploaded
+• DevOps/Cloud Job Related Posts
+• Realtime Interview questions & preparation guides
