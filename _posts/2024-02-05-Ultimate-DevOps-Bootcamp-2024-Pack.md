@@ -71,4 +71,19 @@ What you'll learn in Bootcamp:
 
 [Link]: https://topmate.io/harshhaa/800566
 
+### After Purchasing:
+* After Payment from Above Link u get confirmation messege
+* Then u get redirected to Content URLs Page (Check below Image-1 for clarity)
+* U get Confirmation messeges to ur whatsapp number + UR Mail (Check Below Image-2 & Image-3 for more Info)
+
+* Image-1
+![bootcamp-urls](https://imgur.com/dpU7POR.png)
+
+* Image-2
+![bootcamp-urls](https://imgur.com/9RIUXAI.png)
+
+* Image-3
+![bootcamp-urls](https://imgur.com/qiCRVKF.png)
+
+
 ***Limited Slots only, Hurry up 🔥***
