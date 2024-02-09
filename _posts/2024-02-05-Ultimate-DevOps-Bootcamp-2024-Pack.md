@@ -8,6 +8,10 @@ keywords: "The Ultimate DevOps Bootcamp 2024 Pack by ProDevOpsGuy"
 
 ## Best 18 DevOps Realtime Projects 2024 ( Videos ) + Ultimate DevOps Bootcamp 💥 ( Notes + Videos ) + GCP Full edition - 2024 Year Combo Pack Sale 
 
+<p align="center">
+  <img src="https://imgur.com/WBks93k.png" />
+</p>
+
 ### Master Your DevOps Skills with Real challenge 🔥 + Learn DevOps in a few days 
 
 What you'll learn in Bootcamp:
